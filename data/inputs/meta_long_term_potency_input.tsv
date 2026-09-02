@@ -1,0 +1,4 @@
+study_family	study_label	athermal_events	athermal_total	energy_events	energy_total	followup_window	outcome_definition	source_report
+STUDY-HOFMANN-01	Hofmann 2022	150	283	85	195	Mean 52.7 vs 54.8 months	Erections firm enough for penetration and satisfactory	RARP-0118
+STUDY-BASOURAKOS-01	Basourakos 2022	28	42	25	35	At least 2 years	EPIC-CP item 8 erectile-function recovery	RARP-0105
+STUDY-AHLERING-01	Ahlering 2008	46	50	24	38	24 months	Erection sufficient for intercourse with or without PDE5 inhibitor	RARP-0421
