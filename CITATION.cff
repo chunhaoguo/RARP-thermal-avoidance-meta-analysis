@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the associated systematic review and this repository."
+title: "Thermal avoidance versus energy use in nerve-sparing RARP: data and code"
+type: software
+authors:
+  - family-names: Guo
+    given-names: Chunhao
+  - family-names: Long
+    given-names: Gongwei
+  - family-names: Su
+    given-names: Po-Lan
+  - family-names: Yang
+    given-names: Xinyi
+  - family-names: Zhang
+    given-names: Jingrui
+  - family-names: Wen
+    given-names: Ao
+  - family-names: Hu
+    given-names: Zhiquan
+  - family-names: Yang
+    given-names: Chunguang
+version: 1.0.0
+date-released: 2026-09-02
+repository-code: "https://github.com/chunhaoguo/RARP-thermal-avoidance-meta-analysis"
+license: MIT
