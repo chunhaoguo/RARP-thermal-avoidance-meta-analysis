@@ -1,0 +1,5 @@
+outcome	study_label	design	athermal_mean	athermal_sd	athermal_n	energy_mean	energy_sd	energy_n	unit	effect	low	high	variance
+estimated_blood_loss	Hofmann 2022	Non-randomized	104.9	27.6	322	105.9	35.6	229	mL	-1	-6.50887179634744	4.50887179634744	7.90003742981909
+estimated_blood_loss	Basourakos 2022	Non-randomized	167	44	194	154	32	144	mL	13	4.89738169644245	21.1026183035575	17.0904925544101
+operative_time	Fuschi 2025	Randomized	142.4	16	97	138.1	15.54	98	min	4.30000000000001	-0.127686291860171	8.7276862918602	5.10337525773196
+operative_time	Basourakos 2022	Non-randomized	179	29	194	162	29	144	min	17	10.7479516487955	23.2520483512045	10.1753293241695

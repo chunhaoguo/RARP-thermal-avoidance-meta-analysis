@@ -1,0 +1,5 @@
+model	effect	low	high	role
+Primary: REML + Hartung-Knapp	1.19645362231963	0.705680852802857	2.02853919682822	Primary
+Sensitivity: REML + Wald	1.19645362231963	0.951170064973899	1.50498982576901	Sensitivity
+Sensitivity: common effect	1.21138475398833	1.05595760675491	1.3896893329885	Sensitivity
+Descriptive prediction interval	1.19645362231963	0.505040269152062	2.834429960932	Descriptive

@@ -1,0 +1,6 @@
+analysis_or_moderator	available_information	identifiability_problem	decision
+Funnel plot / asymmetry test	Largest synthesis: k=3 long-term potency families	Too few studies for interpretable asymmetry assessment; heterogeneity and chance would dominate	No funnel plot or test; publication bias remains uncertain
+Study design	Hofmann, Basourakos, and Ahlering were all non-randomised	No between-study variation	Meta-regression coefficient not identifiable
+Mean age	Approximate family means from reported arm data: 60.7, 61.5, and 56.3 years; some values describe broader rather than outcome-specific cohorts	With k=3, a univariable model would leave one residual degree of freedom and use partly non-comparable covariates	No model fitted
+Baseline erectile status	All three analytic cohorts selected men as potent by study-specific eligibility or long-term subset criteria	No usable variation, and thresholds differed across IIEF-5, intercourse-sufficient erection, and EPIC-CP definitions	Meta-regression coefficient not identifiable
+Nerve-sparing plane	Hofmann: NR; Basourakos: mixed and arm-imbalanced; Ahlering: incompletely reported	No harmonised study-level moderator could be coded	No model fitted
