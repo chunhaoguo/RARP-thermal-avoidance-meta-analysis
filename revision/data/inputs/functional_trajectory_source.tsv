@@ -1,0 +1,12 @@
+panel	study_label	time_label	athermal_events	athermal_total	energy_events	energy_total	athermal_mean	athermal_sd	energy_mean	energy_sd	athermal_n	energy_n
+continence	Fuschi 2025	15 days	76	97	61	98						
+continence	Fuschi 2025	30 days	85	97	70	98						
+continence	Fuschi 2025	90 days	91	97	84	98						
+iief5	Fuschi 2025	30 days					7.68	2.45	5.66	2.59	97	98
+iief5	Fuschi 2025	90 days					10.13	2.47	7.38	2.49	97	98
+iief5	Fuschi 2025	180 days					15.55	2.94	12.73	2.95	97	98
+potency_3m	Ahlering family	3 months	53	139	3	36						
+potency_3m	Joseph 2006	3 months	5	15	10	15						
+potency_long	Hofmann 2022	Long term	150	283	85	195						
+potency_long	Basourakos 2022	>2 years	28	42	25	35						
+potency_long	Ahlering family	24 months	46	50	24	38						

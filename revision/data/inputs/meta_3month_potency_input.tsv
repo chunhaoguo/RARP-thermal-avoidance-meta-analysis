@@ -1,0 +1,3 @@
+study_family	study_label	athermal_events	athermal_total	energy_events	energy_total	followup_window	outcome_definition	source_report
+STUDY-AHLERING-01	Ahlering 2008	53	139	3	36	3 months	Erection sufficient for intercourse with or without PDE5 inhibitor	RARP-0421
+STUDY-JOSEPH-01	Joseph 2006	5	15	10	15	3 months	At least one episode of intercourse	RARP-0442

@@ -6,7 +6,26 @@ This repository contains the redistributable derived data and analysis code supp
 
 The review was prospectively registered in PROSPERO (CRD420261488794).
 
-## Contents
+## Revised analyses
+
+The `revision/` directory contains the analysis scripts, aggregate inputs and result tables for the revised manuscript. The original-submission files remain at the repository root for version history.
+
+Run the revised calculations from that directory using base R 4.6.0 or a compatible installation:
+
+```bash
+cd revision
+Rscript R/meta_analysis.R
+Rscript R/perioperative_effects.R
+Rscript R/functional_reproduction.R
+Rscript R/iief5_denominator_scenarios.R
+Rscript R/later_continence.R
+```
+
+See [`revision/README.txt`](revision/README.txt) for the result-to-manuscript map and analysis roles. [`revision/MANIFEST_SHA256.tsv`](revision/MANIFEST_SHA256.tsv) records the archived file hashes. The primary analysis is REML with Hartung-Knapp intervals. The IIEF-5 reconstructions and hypothetical completion scenarios are explicitly exploratory, and no meta-regression was fitted because the available evidence did not support it.
+
+## Original submission
+
+### Contents
 
 - `data/inputs/`: study-level inputs used for the quantitative syntheses.
 - `data/derived/`: derived tables underlying the main and supplementary results and figures.
@@ -14,7 +33,7 @@ The review was prospectively registered in PROSPERO (CRD420261488794).
 - `R/perioperative_effects.R`: study-specific mean differences for perioperative outcomes.
 - `results/`: output directory created when the scripts are run.
 
-## Reproduce the analyses
+### Reproduce the original analyses
 
 The scripts use base R only. From the repository root, run:
 
